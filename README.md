@@ -1,1 +1,1 @@
-# pytranslate
+Python Tkinter Translation App
